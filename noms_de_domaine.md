@@ -12,13 +12,13 @@
 | NosDonnées              | X  |     |     |     |      | bookmyname      | goya2                               |
 | fr.ckan                 |    |     |     |  X  |      | OKFN            | goya2                               |
 | Data-gov                | X  |     |     |     |      | gandi           | goya2                               |
-| Debug-data-gouv         | X  |     |     |     |      | gandi           | komodo                              |
+| Debug-data-gouv         | X  |     |     |     |      | gandi           | komodo (dead)                       |
 | NosElus                 | X  |     |     |  X  |  X   | gandi           |                                     |
 | NosÉlus                 | X  |     |     |     |      | bookmyname      |                                     |
-| LaFabriqueDeLaLoi       | X  |  X  |  X  |     |      | gandi           | komodo                              |
-| TheLawFactory           | X  |  X  |     |     |      | bookmyname      | komodo                              |
+| LaFabriqueDeLaLoi       | X  |  X  |  X  |     |      | gandi           | cocolulu                            |
+| TheLawFactory           | X  |  X  |     |     |      | bookmyname      | cocolulu                            |
 | NosFinancesLocales      | X  |     |     |     |      | bookmyname      | goya                                |
-| CandiData               | X  |     |     |     |      | gandi           | komodo                              |
-| OpenDataHack            |    |  X  |     |     |      | Silicon Sentier | komodo                              |
-| Coalition-Transparence  |    |  X  |     |     |  X   | AITEC           | komodo                              |
-| Democratie-Transparence |    |  X  |     |     |      | Access-Info     | komodo                              |
+| CandiData               | X  |     |     |     |      | gandi           | komodo (dead)                       |
+| OpenDataHack            |    |  X  |     |     |      | Silicon Sentier | komodo (dead)                       |
+| Coalition-Transparence  |    |  X  |     |     |  X   | AITEC           | komodo (dead)                       |
+| Democratie-Transparence |    |  X  |     |     |      | Access-Info     | komodo (dead)                       |
