@@ -27,18 +27,19 @@
 # Autres services
 
 
-|               URL                           |          service    |  serveur                             |
-|---------------------------------------------|---------------------|--------------------------------------|
-| ml.regardscitoyens.org                      | Mailing-Listes      | cocolulu                             |  
-| cocolulu.regardscitoyens.org/gazouilleur/   | Bot IRC Gazouilleur | goya3                                |
-| cpc.regardscitoyens.org                     | Trac                | goya3                                |
-| https://cpc.                                | Trac interne        | goya3                                |
-| cpc.regardscitoyens.org                     | Trac                | goya3                                |
-| picri.regardscitoyens.org                   | La Fabrique dev     | cocolulu                             |
-| manet.regardscitoyens.org                   | Manet               | cocolulu                             |
-| irfm.regardscitoyens.org                    | IRFM                | cocolulu                             |
-| munin.regardscitoyens.org                   | Munin               | cocolulu                             |
-| komodo.regardscitoyens.org                  | Old data            | cocolulu                             |
-| stats.regardscitoyens.org                   | Piwik               | cocolulu                             |
-| pad.regardscitoyens.org                     | Etherpad-lite       | cocolulu                             |
-
+|               URL                                        |          service    |  serveur                             |
+|----------------------------------------------------------|---------------------|--------------------------------------|
+| https://ml.regardscitoyens.org/cgi-bin/mailman/listinfo  | Mailing-Listes      | cocolulu                             |  
+| https://cocolulu.regardscitoyens.org/gazouilleur/        | Bot IRC Gazouilleur | goya3                                |
+| http://cpc.regardscitoyens.org/                          | Trac                | goya3                                |
+| https://cpc.regardscitoyens.org/                         | Trac interne        | goya3                                |
+| https://picri.regardscitoyens.org/                       | La Fabrique dev     | cocolulu                             |
+| http://manet.regardscitoyens.org/                        | Manet               | cocolulu                             |
+| https://irfm.regardscitoyens.org/                        | IRFM                | cocolulu                             |
+| https://munin.regardscitoyens.org/                       | Munin               | cocolulu                             |
+| https://komodo.regardscitoyens.org/                      | Old data            | cocolulu                             |
+| https://stats.regardscitoyens.org/                       | Piwik               | cocolulu                             |
+| https://pad.regardscitoyens.org/                         | Etherpad-lite       | cocolulu                             |
+| https://www.regardscitoyens.org/                         | wordpress rc        | goya3                                |
+| https://2007-2012.nosdeputes.fr/                         | nd 2007             | goya3                                |
+| https://2012-2017.nosdeputes.fr/                         | nd 2012             | goya3                                |
