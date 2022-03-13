@@ -30,7 +30,7 @@
 |               URL                                        |          service    |  serveur                             |
 |----------------------------------------------------------|---------------------|--------------------------------------|
 | https://ml.regardscitoyens.org/cgi-bin/mailman/listinfo  | Mailing-Listes      | cocolulu                             |  
-| https://cocolulu.regardscitoyens.org/gazouilleur/        | Bot IRC Gazouilleur | goya3                                |
+| https://cocolulu.regardscitoyens.org/gazouilleur/        | Bot IRC Gazouilleur | cocolulu                             |
 | http://cpc.regardscitoyens.org/                          | Trac                | goya3                                |
 | https://cpc.regardscitoyens.org/                         | Trac interne        | goya3                                |
 | https://picri.regardscitoyens.org/                       | La Fabrique dev     | cocolulu                             |
