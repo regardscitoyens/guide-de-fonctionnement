@@ -2,7 +2,7 @@
 
 |         domaine         | fr | org | com | net | info | hébergement       | serveur                             |
 |-------------------------|:--:|:---:|:---:|:---:|:----:|-------------------|-------------------------------------|
-| RegardsCitoyens         | X  |  X  |  X  |     |      | bookmyname        | goya3                               |
+| RegardsCitoyens         | X  |  X  |  X  |     |      | bookmyname        | goya4                               |
 | RegardCitoyen           | X  |  X  |  X  |     |      | bookmyname        | goya3                               |
 | NosDeputes              | X  |  X  |  X  |     |      | bookmyname        | cocolulu (2017), goya2 (2007, 2012) |
 | NosDéputés              | X  |     |     |     |      | bookmyname        | cocolulu (2017), goya2 (2007, 2012) |
@@ -13,7 +13,7 @@
 | LaFabriqueDeLaLoi       | X  |  X  |  X  |     |      | gandi             | cocolulu                            |
 | TheLawFactory           | X  |  X  |     |     |      | bookmyname        | cocolulu                            |
 | NosFinancesLocales      | X  |     |     |     |      | bookmyname        | goya3                               |
-| NosDonnees              | X  |  X  |  X  |     |      | gandi             | goya3                               |
+| NosDonnees              | X  |  X  |  X  |     |      | gandi             | goya4                               |
 | NosDonnées              | X  |     |     |     |      | bookmyname        | goya3                               |
 | Data-gov                | X  |     |     |     |      | (gandi)           | goya3 (closed)                      |
 | fr.ckan                 |    |     |     |  X  |      | (OKFN)            | goya3 (closed)                      |
@@ -31,15 +31,15 @@
 |----------------------------------------------------------|---------------------|--------------------------------------|
 | https://ml.regardscitoyens.org/cgi-bin/mailman/listinfo  | Mailing-Listes      | cocolulu                             |  
 | https://cocolulu.regardscitoyens.org/gazouilleur/        | Bot IRC Gazouilleur | cocolulu                             |
-| http://cpc.regardscitoyens.org/                          | Trac                | goya3                                |
-| https://cpc.regardscitoyens.org/                         | Trac interne        | goya3                                |
+| http://cpc.regardscitoyens.org/                          | Trac                | goya4                                |
+| https://cpc.regardscitoyens.org/                         | Trac interne        | goya4                                |
 | https://picri.regardscitoyens.org/                       | La Fabrique dev     | cocolulu                             |
-| http://manet.regardscitoyens.org/                        | Manet               | cocolulu                             |
-| https://irfm.regardscitoyens.org/                        | IRFM                | cocolulu                             |
+| http://manet.regardscitoyens.org/                        | Manet               | goya4                                |
+| https://irfm.regardscitoyens.org/                        | IRFM                | goya4                                |
 | https://munin.regardscitoyens.org/                       | Munin               | cocolulu                             |
 | https://komodo.regardscitoyens.org/                      | Old data            | cocolulu                             |
 | https://stats.regardscitoyens.org/                       | Piwik               | cocolulu                             |
 | https://pad.regardscitoyens.org/                         | Etherpad-lite       | cocolulu                             |
-| https://www.regardscitoyens.org/                         | wordpress rc        | goya3                                |
-| https://2007-2012.nosdeputes.fr/                         | nd 2007             | goya3                                |
-| https://2012-2017.nosdeputes.fr/                         | nd 2012             | goya3                                |
+| https://www.regardscitoyens.org/                         | wordpress rc        | goya4                                |
+| https://2007-2012.nosdeputes.fr/                         | nd 2007             | goya4                                |
+| https://2012-2017.nosdeputes.fr/                         | nd 2012             | goya4                                |
