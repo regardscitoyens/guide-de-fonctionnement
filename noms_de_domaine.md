@@ -4,8 +4,8 @@
 |-------------------------|:--:|:---:|:---:|:---:|:----:|-------------------|-------------------------------------|
 | RegardsCitoyens         | X  |  X  |  X  |     |      | bookmyname        | goya4                               |
 | RegardCitoyen           | X  |  X  |  X  |     |      | bookmyname        | goya3                               |
-| NosDeputes              | X  |  X  |  X  |     |      | bookmyname        | cocolulu (2017), goya2 (2007, 2012) |
-| NosDéputés              | X  |     |     |     |      | bookmyname        | cocolulu (2017), goya2 (2007, 2012) |
+| NosDeputes              | X  |  X  |  X  |     |      | bookmyname        | cocolulu (2017), goya4 (2007, 2012) |
+| NosDéputés              | X  |     |     |     |      | bookmyname        | cocolulu (2017), goya4 (2007, 2012) |
 | NosSenateurs            | X  |  X  |  X  |     |      | bookmyname        | cocolulu                            |
 | NosSénateurs            | X  |     |     |     |      | bookmyname        | cocolulu                            |
 | NosElus                 | X  |     |     |  X  |  X   | gandi             |                                     |
@@ -30,7 +30,7 @@
 |               URL                                        |          service    |  serveur                             |
 |----------------------------------------------------------|---------------------|--------------------------------------|
 | https://ml.regardscitoyens.org/cgi-bin/mailman/listinfo  | Mailing-Listes      | cocolulu                             |  
-| https://cocolulu.regardscitoyens.org/gazouilleur/        | Bot IRC Gazouilleur | cocolulu                             |
+| https://goya4.regardscitoyens.org/gazouilleur/           | Bot IRC Gazouilleur | goya4                                |
 | http://cpc.regardscitoyens.org/                          | Trac                | goya4                                |
 | https://cpc.regardscitoyens.org/                         | Trac interne        | goya4                                |
 | https://picri.regardscitoyens.org/                       | La Fabrique dev     | cocolulu                             |
