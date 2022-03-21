@@ -33,13 +33,15 @@
 | https://goya4.regardscitoyens.org/gazouilleur/           | Bot IRC Gazouilleur | goya4                                |
 | http://cpc.regardscitoyens.org/                          | Trac                | goya4                                |
 | https://cpc.regardscitoyens.org/                         | Trac interne        | goya4                                |
-| https://picri.regardscitoyens.org/                       | La Fabrique dev     | cocolulu                             |
+| https://picri.regardscitoyens.org/                       | La Fabrique dev     | goya4                                |
 | http://manet.regardscitoyens.org/                        | Manet               | goya4                                |
 | https://irfm.regardscitoyens.org/                        | IRFM                | goya4                                |
 | https://munin.regardscitoyens.org/                       | Munin               | cocolulu                             |
 | https://komodo.regardscitoyens.org/                      | Old data            | cocolulu                             |
-| https://stats.regardscitoyens.org/                       | Piwik               | cocolulu                             |
+| https://stats.regardscitoyens.org/                       | Piwik               | goya4                                |
 | https://pad.regardscitoyens.org/                         | Etherpad-lite       | cocolulu                             |
 | https://www.regardscitoyens.org/                         | wordpress rc        | goya4                                |
 | https://2007-2012.nosdeputes.fr/                         | nd 2007             | goya4                                |
 | https://2012-2017.nosdeputes.fr/                         | nd 2012             | goya4                                |
+| https://blog.lafabriquedelaloi.fr/                       | wordpress           | goya4                                |
+| https://www.lafabriquedelaloi.fr/                        | lfdll               | goya4                                |
