@@ -3,7 +3,7 @@
 |         domaine         | fr | org | com | net | info | hébergement       | serveur                             |
 |-------------------------|:--:|:---:|:---:|:---:|:----:|-------------------|-------------------------------------|
 | RegardsCitoyens         | X  |  X  |  X  |     |      | bookmyname        | goya4                               |
-| RegardCitoyen           | X  |  X  |  X  |     |      | bookmyname        | goya3                               |
+| RegardCitoyen           | X  |  X  |  X  |     |      | bookmyname        | goya4                               |
 | NosDeputes              | X  |  X  |  X  |     |      | bookmyname        | cocolulu2 (2017), goya4 (2007/2012) |
 | NosDéputés              | X  |     |     |     |      | bookmyname        | cocolulu2 (2017), goya4 (2007/2012) |
 | NosSenateurs            | X  |  X  |  X  |     |      | bookmyname        | cocolulu2                           |
@@ -12,11 +12,11 @@
 | NosÉlus                 | X  |     |     |     |      | bookmyname        |                                     |
 | LaFabriqueDeLaLoi       | X  |  X  |  X  |     |      | gandi             | cocolulu2                           |
 | TheLawFactory           | X  |  X  |     |     |      | bookmyname        | cocolulu2                           |
-| NosFinancesLocales      | X  |     |     |     |      | bookmyname        | goya3                               |
+| NosFinancesLocales      | X  |     |     |     |      | bookmyname        | goya4                               |
 | NosDonnees              | X  |  X  |  X  |     |      | gandi             | goya4                               |
-| NosDonnées              | X  |     |     |     |      | bookmyname        | goya3                               |
-| Data-gov                | X  |     |     |     |      | (gandi)           | goya3 (closed)                      |
-| fr.ckan                 |    |     |     |  X  |      | (OKFN)            | goya3 (closed)                      |
+| NosDonnées              | X  |     |     |     |      | bookmyname        | goya4                               |
+| Data-gov                | X  |     |     |     |      | (gandi)           | goya4 (closed)                      |
+| fr.ckan                 |    |     |     |  X  |      | (OKFN)            | goya4 (closed)                      |
 | Debug-data-gouv         | X  |     |     |     |      | (gandi)           | komodo (closed)                     |
 | CandiData               | X  |     |     |     |      | (gandi)           | komodo (closed)                     |
 | OpenDataHack            |    |  X  |     |     |      | (Silicon Sentier) | komodo (closed)                     |
