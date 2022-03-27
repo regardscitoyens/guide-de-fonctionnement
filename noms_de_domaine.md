@@ -32,7 +32,6 @@
 | https://ml.regardscitoyens.org/cgi-bin/mailman/listinfo  | Mailing-Listes      | cocolulu                             |  
 | https://nosdeputes.fr/                                   | ND 2017             | cocolulu                             |  
 | https://nossenateurs.fr/                                 | NS                  | cocolulu                             |  
-| https://ml.regardscitoyens.org/cgi-bin/mailman/listinfo  | Mailing-Listes      | cocolulu                             |  
 | https://goya4.regardscitoyens.org/gazouilleur/           | Bot IRC Gazouilleur | goya4                                |
 | http://cpc.regardscitoyens.org/                          | Trac                | goya4                                |
 | https://cpc.regardscitoyens.org/                         | Trac interne        | goya4                                |
@@ -40,6 +39,7 @@
 | http://manet.regardscitoyens.org/                        | Manet               | goya4                                |
 | https://irfm.regardscitoyens.org/                        | IRFM                | goya4                                |
 | https://munin.regardscitoyens.org/                       | Munin               | goya4                                |
+| https://data.regardscitoyens.org/                        | Data                | cocolulu2                            |
 | https://komodo.regardscitoyens.org/                      | Old data            | cocolulu                             |
 | https://stats.regardscitoyens.org/                       | Piwik               | goya4                                |
 | https://pad.regardscitoyens.org/                         | Etherpad-lite       | goya4                                |
